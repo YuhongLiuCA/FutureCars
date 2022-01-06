@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "project2Team",
+  "namespace": "",
+  "sfdcLoginUrl": "https://wise-shark-7dp50a-dev-ed.my.salesforce.com/",
+  "sourceApiVersion": "52.0"
+}
