@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "outcome": "Passed",
+    "testsRan": 1,
+    "passing": 1,
+    "failing": 0,
+    "skipped": 0,
+    "passRate": "100%",
+    "failRate": "0%",
+    "skipRate": "0%",
+    "testStartTime": "Mon Jan 10 2022 下午8:52:11",
+    "testExecutionTimeInMs": 72,
+    "testTotalTimeInMs": 72,
+    "commandTimeInMs": 360,
+    "hostname": "https://efficiency-saas-4998-dev-ed.cs22.my.salesforce.com",
+    "orgId": "00D17000000b7UYEAY",
+    "username": "test-dvbks6npg211@example.com",
+    "testRunId": "7071700002rphaN",
+    "userId": "0051700000BNMDgAAP"
+  },
+  "tests": [
+    {
+      "id": "07M1700000NRVh8EAH",
+      "queueItemId": "70917000002vTMQAA2",
+      "stackTrace": null,
+      "message": null,
+      "asyncApexJobId": "7071700002rphaNAAQ",
+      "methodName": "TP_getFutureProducts",
+      "outcome": "Pass",
+      "apexLogId": "07L1700000Uv1xdEAB",
+      "apexClass": {
+        "id": "01p1700000PrBtcAAF",
+        "name": "FutureProductControllerTest",
+        "namespacePrefix": null,
+        "fullName": "FutureProductControllerTest"
+      },
+      "runTime": 72,
+      "testTimestamp": "2022-01-11T04:52:24.000+0000",
+      "fullName": "FutureProductControllerTest.TP_getFutureProducts"
+    }
+  ]
+}

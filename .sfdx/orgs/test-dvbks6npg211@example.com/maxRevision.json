@@ -1,0 +1,23 @@
+{
+  "serverMaxRevisionCounter": 8,
+  "sourceMembers": {
+    "Profile__Admin": {
+      "serverRevisionCounter": 6,
+      "lastRetrievedFromServer": 6,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "ApexClass__FutureProductController": {
+      "serverRevisionCounter": 7,
+      "lastRetrievedFromServer": 7,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "ApexClass__FutureProductControllerTest": {
+      "serverRevisionCounter": 8,
+      "lastRetrievedFromServer": 8,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    }
+  }
+}
