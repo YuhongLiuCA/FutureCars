@@ -16,6 +16,7 @@ private class FutureProductControllerTest {
         Test.startTest();
         List<Product2> allProducts = FutureProductController.getFutureProducts();
         System.assertEquals(5,allProducts.size());
+        System.assertEquals('Car0',allProducts[0].Name);
         Test.stopTest();
     }
     
