@@ -1,0 +1,131 @@
+{
+  "summary": {
+    "outcome": "Failed",
+    "testsRan": 4,
+    "passing": 0,
+    "failing": 4,
+    "skipped": 0,
+    "passRate": "0%",
+    "failRate": "100%",
+    "skipRate": "0%",
+    "testStartTime": "Wed Jan 12 2022 下午12:09:13",
+    "testExecutionTimeInMs": 0,
+    "testTotalTimeInMs": 0,
+    "commandTimeInMs": 330,
+    "hostname": "https://inspiration-nosoftware-52-dev-ed.cs22.my.salesforce.com",
+    "orgId": "00D17000000b9liEAA",
+    "username": "test-azjwlllquodc@example.com",
+    "testRunId": "7071700002sEB1K",
+    "userId": "0051700000BUmKmAAL"
+  },
+  "tests": [
+    {
+      "id": "07M1700000NbvLKEAZ",
+      "queueItemId": "70917000002txmUAAQ",
+      "stackTrace": "Class.FutureProductControllerTest.LoadData: line 11, column 1",
+      "message": "System.DmlException: Insert failed. First exception on row 5; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, FutureCustomProduct not valid: []",
+      "asyncApexJobId": "7071700002sEB1KAAW",
+      "methodName": "TN_saveFutureCustomProduct",
+      "outcome": "Fail",
+      "apexLogId": null,
+      "apexClass": {
+        "id": "01p1700000Ppu1VAAR",
+        "name": "FutureProductControllerTest",
+        "namespacePrefix": null,
+        "fullName": "FutureProductControllerTest"
+      },
+      "runTime": 0,
+      "testTimestamp": "2022-01-12T20:09:14.000+0000",
+      "fullName": "FutureProductControllerTest.TN_saveFutureCustomProduct",
+      "diagnostic": {
+        "exceptionMessage": "System.DmlException: Insert failed. First exception on row 5; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, FutureCustomProduct not valid: []",
+        "exceptionStackTrace": "Class.FutureProductControllerTest.LoadData: line 11, column 1",
+        "className": "FutureProductControllerTest",
+        "compileProblem": "",
+        "lineNumber": 11,
+        "columnNumber": 1
+      }
+    },
+    {
+      "id": "07M1700000NbvLLEAZ",
+      "queueItemId": "70917000002txmUAAQ",
+      "stackTrace": "Class.FutureProductControllerTest.LoadData: line 11, column 1",
+      "message": "System.DmlException: Insert failed. First exception on row 5; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, FutureCustomProduct not valid: []",
+      "asyncApexJobId": "7071700002sEB1KAAW",
+      "methodName": "TN_saveFutureProduct",
+      "outcome": "Fail",
+      "apexLogId": null,
+      "apexClass": {
+        "id": "01p1700000Ppu1VAAR",
+        "name": "FutureProductControllerTest",
+        "namespacePrefix": null,
+        "fullName": "FutureProductControllerTest"
+      },
+      "runTime": 0,
+      "testTimestamp": "2022-01-12T20:09:14.000+0000",
+      "fullName": "FutureProductControllerTest.TN_saveFutureProduct",
+      "diagnostic": {
+        "exceptionMessage": "System.DmlException: Insert failed. First exception on row 5; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, FutureCustomProduct not valid: []",
+        "exceptionStackTrace": "Class.FutureProductControllerTest.LoadData: line 11, column 1",
+        "className": "FutureProductControllerTest",
+        "compileProblem": "",
+        "lineNumber": 11,
+        "columnNumber": 1
+      }
+    },
+    {
+      "id": "07M1700000NbvYQEAZ",
+      "queueItemId": "70917000002txmUAAQ",
+      "stackTrace": "Class.FutureProductControllerTest.LoadData: line 11, column 1",
+      "message": "System.DmlException: Insert failed. First exception on row 5; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, FutureCustomProduct not valid: []",
+      "asyncApexJobId": "7071700002sEB1KAAW",
+      "methodName": "TP_getFutureProducts",
+      "outcome": "Fail",
+      "apexLogId": null,
+      "apexClass": {
+        "id": "01p1700000Ppu1VAAR",
+        "name": "FutureProductControllerTest",
+        "namespacePrefix": null,
+        "fullName": "FutureProductControllerTest"
+      },
+      "runTime": 0,
+      "testTimestamp": "2022-01-12T20:09:14.000+0000",
+      "fullName": "FutureProductControllerTest.TP_getFutureProducts",
+      "diagnostic": {
+        "exceptionMessage": "System.DmlException: Insert failed. First exception on row 5; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, FutureCustomProduct not valid: []",
+        "exceptionStackTrace": "Class.FutureProductControllerTest.LoadData: line 11, column 1",
+        "className": "FutureProductControllerTest",
+        "compileProblem": "",
+        "lineNumber": 11,
+        "columnNumber": 1
+      }
+    },
+    {
+      "id": "07M1700000NbvYREAZ",
+      "queueItemId": "70917000002txmUAAQ",
+      "stackTrace": "Class.FutureProductControllerTest.LoadData: line 11, column 1",
+      "message": "System.DmlException: Insert failed. First exception on row 5; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, FutureCustomProduct not valid: []",
+      "asyncApexJobId": "7071700002sEB1KAAW",
+      "methodName": "TP_saveFutureCustomProduct",
+      "outcome": "Fail",
+      "apexLogId": null,
+      "apexClass": {
+        "id": "01p1700000Ppu1VAAR",
+        "name": "FutureProductControllerTest",
+        "namespacePrefix": null,
+        "fullName": "FutureProductControllerTest"
+      },
+      "runTime": 0,
+      "testTimestamp": "2022-01-12T20:09:14.000+0000",
+      "fullName": "FutureProductControllerTest.TP_saveFutureCustomProduct",
+      "diagnostic": {
+        "exceptionMessage": "System.DmlException: Insert failed. First exception on row 5; first error: FIELD_CUSTOM_VALIDATION_EXCEPTION, FutureCustomProduct not valid: []",
+        "exceptionStackTrace": "Class.FutureProductControllerTest.LoadData: line 11, column 1",
+        "className": "FutureProductControllerTest",
+        "compileProblem": "",
+        "lineNumber": 11,
+        "columnNumber": 1
+      }
+    }
+  ]
+}

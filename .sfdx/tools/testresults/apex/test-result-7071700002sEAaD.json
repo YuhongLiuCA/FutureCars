@@ -1,0 +1,99 @@
+{
+  "summary": {
+    "outcome": "Passed",
+    "testsRan": 4,
+    "passing": 4,
+    "failing": 0,
+    "skipped": 0,
+    "passRate": "100%",
+    "failRate": "0%",
+    "skipRate": "0%",
+    "testStartTime": "Wed Jan 12 2022 下午12:03:06",
+    "testExecutionTimeInMs": 119,
+    "testTotalTimeInMs": 119,
+    "commandTimeInMs": 346,
+    "hostname": "https://inspiration-nosoftware-52-dev-ed.cs22.my.salesforce.com",
+    "orgId": "00D17000000b9liEAA",
+    "username": "test-azjwlllquodc@example.com",
+    "testRunId": "7071700002sEAaD",
+    "userId": "0051700000BUmKmAAL"
+  },
+  "tests": [
+    {
+      "id": "07M1700000NbvCwEAJ",
+      "queueItemId": "70917000002txjuAAA",
+      "stackTrace": null,
+      "message": null,
+      "asyncApexJobId": "7071700002sEAaDAAW",
+      "methodName": "TN_saveFutureCustomProduct",
+      "outcome": "Pass",
+      "apexLogId": "07L1700000V6jKhEAJ",
+      "apexClass": {
+        "id": "01p1700000Ppu1VAAR",
+        "name": "FutureProductControllerTest",
+        "namespacePrefix": null,
+        "fullName": "FutureProductControllerTest"
+      },
+      "runTime": 20,
+      "testTimestamp": "2022-01-12T20:03:07.000+0000",
+      "fullName": "FutureProductControllerTest.TN_saveFutureCustomProduct"
+    },
+    {
+      "id": "07M1700000NbvCxEAJ",
+      "queueItemId": "70917000002txjuAAA",
+      "stackTrace": null,
+      "message": null,
+      "asyncApexJobId": "7071700002sEAaDAAW",
+      "methodName": "TN_saveFutureProduct",
+      "outcome": "Pass",
+      "apexLogId": "07L1700000V6jKhEAJ",
+      "apexClass": {
+        "id": "01p1700000Ppu1VAAR",
+        "name": "FutureProductControllerTest",
+        "namespacePrefix": null,
+        "fullName": "FutureProductControllerTest"
+      },
+      "runTime": 36,
+      "testTimestamp": "2022-01-12T20:03:07.000+0000",
+      "fullName": "FutureProductControllerTest.TN_saveFutureProduct"
+    },
+    {
+      "id": "07M1700000NbvHoEAJ",
+      "queueItemId": "70917000002txjuAAA",
+      "stackTrace": null,
+      "message": null,
+      "asyncApexJobId": "7071700002sEAaDAAW",
+      "methodName": "TP_getFutureProducts",
+      "outcome": "Pass",
+      "apexLogId": "07L1700000V6jKhEAJ",
+      "apexClass": {
+        "id": "01p1700000Ppu1VAAR",
+        "name": "FutureProductControllerTest",
+        "namespacePrefix": null,
+        "fullName": "FutureProductControllerTest"
+      },
+      "runTime": 21,
+      "testTimestamp": "2022-01-12T20:03:07.000+0000",
+      "fullName": "FutureProductControllerTest.TP_getFutureProducts"
+    },
+    {
+      "id": "07M1700000NbvHpEAJ",
+      "queueItemId": "70917000002txjuAAA",
+      "stackTrace": null,
+      "message": null,
+      "asyncApexJobId": "7071700002sEAaDAAW",
+      "methodName": "TP_saveFutureCustomProduct",
+      "outcome": "Pass",
+      "apexLogId": "07L1700000V6jKhEAJ",
+      "apexClass": {
+        "id": "01p1700000Ppu1VAAR",
+        "name": "FutureProductControllerTest",
+        "namespacePrefix": null,
+        "fullName": "FutureProductControllerTest"
+      },
+      "runTime": 42,
+      "testTimestamp": "2022-01-12T20:03:08.000+0000",
+      "fullName": "FutureProductControllerTest.TP_saveFutureCustomProduct"
+    }
+  ]
+}

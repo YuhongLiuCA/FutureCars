@@ -1,0 +1,123 @@
+{
+  "summary": {
+    "outcome": "Failed",
+    "testsRan": 4,
+    "passing": 1,
+    "failing": 3,
+    "skipped": 0,
+    "passRate": "25%",
+    "failRate": "75%",
+    "skipRate": "0%",
+    "testStartTime": "Wed Jan 12 2022 上午11:13:42",
+    "testExecutionTimeInMs": 69,
+    "testTotalTimeInMs": 69,
+    "commandTimeInMs": 381,
+    "hostname": "https://inspiration-nosoftware-52-dev-ed.cs22.my.salesforce.com",
+    "orgId": "00D17000000b9liEAA",
+    "username": "test-azjwlllquodc@example.com",
+    "testRunId": "7071700002sE6a5",
+    "userId": "0051700000BUmKmAAL"
+  },
+  "tests": [
+    {
+      "id": "07M1700000NbuPmEAJ",
+      "queueItemId": "70917000002txbgAAA",
+      "stackTrace": "Class.FutureProductControllerTest.TN_saveFutureCustomProduct: line 45, column 1",
+      "message": "System.AssertException: Assertion Failed: An Exception was not thrown",
+      "asyncApexJobId": "7071700002sE6a5AAC",
+      "methodName": "TN_saveFutureCustomProduct",
+      "outcome": "Fail",
+      "apexLogId": "07L1700000V6j9jEAB",
+      "apexClass": {
+        "id": "01p1700000Ppu1VAAR",
+        "name": "FutureProductControllerTest",
+        "namespacePrefix": null,
+        "fullName": "FutureProductControllerTest"
+      },
+      "runTime": 20,
+      "testTimestamp": "2022-01-12T19:14:16.000+0000",
+      "fullName": "FutureProductControllerTest.TN_saveFutureCustomProduct",
+      "diagnostic": {
+        "exceptionMessage": "System.AssertException: Assertion Failed: An Exception was not thrown",
+        "exceptionStackTrace": "Class.FutureProductControllerTest.TN_saveFutureCustomProduct: line 45, column 1",
+        "className": "FutureProductControllerTest",
+        "compileProblem": "",
+        "lineNumber": 45,
+        "columnNumber": 1
+      }
+    },
+    {
+      "id": "07M1700000NbuPnEAJ",
+      "queueItemId": "70917000002txbgAAA",
+      "stackTrace": "Class.FutureProductControllerTest.TN_saveFutureProduct: line 61, column 1",
+      "message": "System.AssertException: Assertion Failed: An Exception was not thrown",
+      "asyncApexJobId": "7071700002sE6a5AAC",
+      "methodName": "TN_saveFutureProduct",
+      "outcome": "Fail",
+      "apexLogId": "07L1700000V6j9jEAB",
+      "apexClass": {
+        "id": "01p1700000Ppu1VAAR",
+        "name": "FutureProductControllerTest",
+        "namespacePrefix": null,
+        "fullName": "FutureProductControllerTest"
+      },
+      "runTime": 21,
+      "testTimestamp": "2022-01-12T19:14:16.000+0000",
+      "fullName": "FutureProductControllerTest.TN_saveFutureProduct",
+      "diagnostic": {
+        "exceptionMessage": "System.AssertException: Assertion Failed: An Exception was not thrown",
+        "exceptionStackTrace": "Class.FutureProductControllerTest.TN_saveFutureProduct: line 61, column 1",
+        "className": "FutureProductControllerTest",
+        "compileProblem": "",
+        "lineNumber": 61,
+        "columnNumber": 1
+      }
+    },
+    {
+      "id": "07M1700000NbuPoEAJ",
+      "queueItemId": "70917000002txbgAAA",
+      "stackTrace": null,
+      "message": null,
+      "asyncApexJobId": "7071700002sE6a5AAC",
+      "methodName": "TP_getFutureProducts",
+      "outcome": "Pass",
+      "apexLogId": "07L1700000V6j9jEAB",
+      "apexClass": {
+        "id": "01p1700000Ppu1VAAR",
+        "name": "FutureProductControllerTest",
+        "namespacePrefix": null,
+        "fullName": "FutureProductControllerTest"
+      },
+      "runTime": 15,
+      "testTimestamp": "2022-01-12T19:14:16.000+0000",
+      "fullName": "FutureProductControllerTest.TP_getFutureProducts"
+    },
+    {
+      "id": "07M1700000NbuPpEAJ",
+      "queueItemId": "70917000002txbgAAA",
+      "stackTrace": "Class.FutureProductController.saveFutureCustomProduct: line 32, column 1\nClass.FutureProductControllerTest.TP_saveFutureCustomProduct: line 27, column 1",
+      "message": "System.AuraHandledException: Script-thrown exception",
+      "asyncApexJobId": "7071700002sE6a5AAC",
+      "methodName": "TP_saveFutureCustomProduct",
+      "outcome": "Fail",
+      "apexLogId": "07L1700000V6j9jEAB",
+      "apexClass": {
+        "id": "01p1700000Ppu1VAAR",
+        "name": "FutureProductControllerTest",
+        "namespacePrefix": null,
+        "fullName": "FutureProductControllerTest"
+      },
+      "runTime": 13,
+      "testTimestamp": "2022-01-12T19:14:16.000+0000",
+      "fullName": "FutureProductControllerTest.TP_saveFutureCustomProduct",
+      "diagnostic": {
+        "exceptionMessage": "System.AuraHandledException: Script-thrown exception",
+        "exceptionStackTrace": "Class.FutureProductController.saveFutureCustomProduct: line 32, column 1\nClass.FutureProductControllerTest.TP_saveFutureCustomProduct: line 27, column 1",
+        "className": "FutureProductController",
+        "compileProblem": "",
+        "lineNumber": 32,
+        "columnNumber": 1
+      }
+    }
+  ]
+}

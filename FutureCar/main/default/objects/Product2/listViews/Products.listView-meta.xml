@@ -4,6 +4,7 @@
     <columns>PRODUCT2.NAME</columns>
     <columns>PRODUCT2.DESCRIPTION</columns>
     <columns>PRODUCT2.DISPLAY_URL</columns>
+    <columns>PRODUCT2.CUSTOMER_PRODUCT_ID</columns>
     <filterScope>Everything</filterScope>
     <label>Products</label>
 </ListView>
