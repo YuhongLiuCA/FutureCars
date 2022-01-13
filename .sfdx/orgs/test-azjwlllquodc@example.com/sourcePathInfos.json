@@ -76,9 +76,9 @@
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default",
     "isDirectory": true,
-    "modifiedTime": 1642009180831,
-    "changeTime": 1642009180831,
-    "contentHash": "524c0f0c60b818f005043b112d15bda32687ad23",
+    "modifiedTime": 1642019234341,
+    "changeTime": 1642019234341,
+    "contentHash": "9080ba661b55c10b8cb9de11f130d842437a0e76",
     "state": "u",
     "package": "FutureCar",
     "deferContentHash": true
@@ -86,11 +86,12 @@
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura",
     "isDirectory": true,
-    "modifiedTime": 1641926633451,
-    "changeTime": 1641926633451,
-    "contentHash": "a991ad90870a74cda7c50032fc4a4d64e3c44764",
+    "modifiedTime": 1642103254248,
+    "changeTime": 1642103254248,
+    "contentHash": "c3d65865f298cfba08aa89cc904440cb82326722",
     "state": "u",
-    "package": "FutureCar"
+    "package": "FutureCar",
+    "deferContentHash": true
   },
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarCard": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarCard",
@@ -350,11 +351,12 @@
   "D:\\Revature\\training\\Week8\\project2-master": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master",
     "isDirectory": true,
-    "modifiedTime": 1641539160756,
-    "changeTime": 1641539160756,
-    "contentHash": "8da601d345a462c264378d44a8f284c297c07fee",
+    "modifiedTime": 1642020365810,
+    "changeTime": 1642020365810,
+    "contentHash": "9143e28395127a9c72378fb623eaf39c6cb5c7db",
     "state": "u",
-    "isWorkspace": true
+    "isWorkspace": true,
+    "deferContentHash": true
   },
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\staticresources": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\staticresources",
@@ -759,5 +761,217 @@
     "state": "u",
     "package": "FutureCar",
     "metadataType": "ApexTrigger"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc",
+    "isDirectory": true,
+    "modifiedTime": 1642021701229,
+    "changeTime": 1642021701229,
+    "contentHash": "f36c99d36555a8c7044134e07ab8eee82ebd3d2f",
+    "state": "u",
+    "package": "FutureCar"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp",
+    "isDirectory": true,
+    "modifiedTime": 1642020567356,
+    "changeTime": 1642020567356,
+    "contentHash": "1ce4b074f1aa4315cc911fb77fc6b8f5c26cf8c3",
+    "state": "u",
+    "package": "FutureCar"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductItem": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductItem",
+    "isDirectory": true,
+    "modifiedTime": 1642019685069,
+    "changeTime": 1642019685069,
+    "contentHash": "5c43149e4f072ecbfd9836cf2b9bfabc043e608d",
+    "state": "u",
+    "package": "FutureCar"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.css": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.css",
+    "size": 793,
+    "modifiedTime": 1642093391172,
+    "changeTime": 1642093391172,
+    "contentHash": "2abd1cfaef4ff4b874c33844fcd7e55d389fa5d7",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.html": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.html",
+    "size": 690,
+    "modifiedTime": 1642093391172,
+    "changeTime": 1642093391172,
+    "contentHash": "895268615f7a8537344f496899b2776090a6dfd9",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.js": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.js",
+    "size": 1792,
+    "modifiedTime": 1642087574540,
+    "changeTime": 1642087574540,
+    "contentHash": "e9a60d467be99016c4c6f593c5cd207e61c4f5ec",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.js-meta.xml": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.js-meta.xml",
+    "size": 422,
+    "modifiedTime": 1642020323780,
+    "changeTime": 1642020323780,
+    "contentHash": "ad38335cf1ce4ef0810c9b9c88608eda6b53cf7c",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "LightningComponentBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductItem\\futureProductItem.css": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductItem\\futureProductItem.css",
+    "size": 1203,
+    "modifiedTime": 1642047166828,
+    "changeTime": 1642047166828,
+    "contentHash": "028aa1f359936d8b080357ff05bbd824fa09ef01",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "LightningComponentBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductItem\\futureProductItem.html": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductItem\\futureProductItem.html",
+    "size": 972,
+    "modifiedTime": 1642044725439,
+    "changeTime": 1642044725439,
+    "contentHash": "52b1a20f05752d551774e95276d3c2ddb74fb50f",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "LightningComponentBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductItem\\futureProductItem.js": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductItem\\futureProductItem.js",
+    "size": 143,
+    "modifiedTime": 1642025264438,
+    "changeTime": 1642025264438,
+    "contentHash": "cd323846d06efc31ceea20ac9f1f097d7001b15b",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "LightningComponentBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductItem\\futureProductItem.js-meta.xml": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductItem\\futureProductItem.js-meta.xml",
+    "size": 208,
+    "modifiedTime": 1642019234343,
+    "changeTime": 1642019234343,
+    "contentHash": "7313c935fb9d39f719432466ac41eaa08bc879c3",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "LightningComponentBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp",
+    "isDirectory": true,
+    "modifiedTime": 1642103254257,
+    "changeTime": 1642103254257,
+    "contentHash": "4e83ced5eb70eecd070f7d99720f197fb5a64dfe",
+    "state": "u",
+    "package": "FutureCar"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.auradoc": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.auradoc",
+    "size": 209,
+    "modifiedTime": 1642103254250,
+    "changeTime": 1642103254250,
+    "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.cmp": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.cmp",
+    "size": 130,
+    "modifiedTime": 1642103324139,
+    "changeTime": 1642103324139,
+    "contentHash": "4c55380a7209fd753d7d12109f85e8aa8b8bf618",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.cmp-meta.xml": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.cmp-meta.xml",
+    "size": 228,
+    "modifiedTime": 1642103254248,
+    "changeTime": 1642103254248,
+    "contentHash": "2c69a1fc0d5aa5f1cf9983c8f133d9c6e4378789",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.css": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.css",
+    "size": 10,
+    "modifiedTime": 1642103254252,
+    "changeTime": 1642103254252,
+    "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.design": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.design",
+    "size": 40,
+    "modifiedTime": 1642103254255,
+    "changeTime": 1642103254255,
+    "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.svg": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.svg",
+    "size": 664,
+    "modifiedTime": 1642103254255,
+    "changeTime": 1642103254255,
+    "contentHash": "6a3a9c1d5556db4bde25af9ef0957c47feb17739",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraAppController.js": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraAppController.js",
+    "size": 65,
+    "modifiedTime": 1642103254256,
+    "changeTime": 1642103254256,
+    "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraAppHelper.js": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraAppHelper.js",
+    "size": 45,
+    "modifiedTime": 1642103254257,
+    "changeTime": 1642103254257,
+    "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "AuraDefinitionBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraAppRenderer.js": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraAppRenderer.js",
+    "size": 50,
+    "modifiedTime": 1642103254257,
+    "changeTime": 1642103254257,
+    "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "AuraDefinitionBundle"
   }
 }
