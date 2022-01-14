@@ -1108,5 +1108,260 @@
         "component://c/futureProductItem@zh-CN": {
             "dev": "2154187862"
         }
+    },
+    "e052284b68": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/home@zh-CN": {
+            "dev": "c0efafa63a"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "f5bf846a63"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "2154187862"
+        }
+    },
+    "fc498d38cd": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "1c3c9186a7"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "717dfb3c2f"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "ad76dd0f83"
+        }
+    },
+    "e495722cd0": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "235a03228f"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "d63a207a4f"
+        }
+    },
+    "9ffe17b15d": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "5c7c0e6a6e"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "8a1468d0ad"
+        }
+    },
+    "573699edbf": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "1c3c9186a7"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "92e43607f0"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "6e0c790783"
+        }
+    },
+    "77904d273d": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "81b125f2ca"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "74e313dc04"
+        }
+    },
+    "11b1a83c8b": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "944e0d91f0"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "3b851f3532"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "c89976edb9"
+        }
+    },
+    "c12585e8a9": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "239578b32d"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "c89976edb9"
+        }
+    },
+    "32595baa03": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "ee0c026642"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "47af6de74b"
+        }
+    },
+    "526fd43293": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "23d952b787"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "1d1a540ca5"
+        }
+    },
+    "a4f1d6ebb3": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "ad16e74482"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "827f89b61b"
+        }
+    },
+    "2116a537b1": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "5f3c851377"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "9010cfde23"
+        }
+    },
+    "46c02e7daf": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "7941bac4c1"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "d718cf8a47"
+        }
+    },
+    "bceb38be55": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "472830ee1a"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "5a44e0f7f7"
+        }
+    },
+    "0e59e0fc37": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "5c6e7534c1"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "e1c50ee9c1"
+        }
+    },
+    "82719bc515": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "1e90c104c7"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "76191ba86d"
+        }
+    },
+    "ad1b2fa142": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "944e0d91f0"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "d454393280"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "8ffd48c6f0"
+        }
+    },
+    "cd5469df7b": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "1c3c9186a7"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "802c8be381"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "8ffd48c6f0"
+        }
     }
 }

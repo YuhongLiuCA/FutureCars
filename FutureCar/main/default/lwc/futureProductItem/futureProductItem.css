@@ -1,5 +1,5 @@
 img {
-    height: 40vh;
+    width: 26vw;
     border-radius: 10px;
     margin-bottom: 2px;
     display: block;
@@ -20,13 +20,13 @@ img {
 .card-description{
     display: flex;
     flex-direction: column;
-    max-width: 30vw;
+    max-width: 25vw;
+    justify-content: space-between;
 }
 .item-description-top {
     display: flex;
     flex-direction: column;
     background-color: rgb(210,210,210);
-    margin-bottom: 1rem;
     margin-left: 2rem;
     border-radius: 10px;
 }
@@ -34,14 +34,15 @@ img {
     display: flex;
     flex-direction: column;
     background-color: rgb(210,210,210);
-    margin-top: 1rem;
+    margin-bottom: 0.15rem;
     margin-left: 2rem;
     border-radius: 10px;
 }
 .item-description-title{
     font-weight: bold;
-    font-size: 36px;
+    font-size: 28px;
     text-align: center;
+    margin: 0.15rem;
 }
 .future-card-title {
     font-size: 20 rem;
@@ -49,8 +50,9 @@ img {
     text-align: center;
 }
 .item-description-text{
-    font-size: 16px;
+    font-size: 14px;
     text-align: center;
+    margin: 0.15rem;
 }
 .future-card-content {
     display: flex;
