@@ -13,8 +13,9 @@ export default class FutureProductApp extends LightningElement {
     @track
     displayIndex = 0;
     
+
     //Get data from database when initialize
-    connectedCallback() {
+    renderedCallback() {
         getFutureProducts().then(result => {
             this.futureCars = result;
             for(let i=0; i < this.futureCars.length; i++) {

@@ -49,3 +49,11 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.proposal-form{
+    margin-top: 2rem;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3rem;
+}

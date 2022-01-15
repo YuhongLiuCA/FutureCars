@@ -306,10 +306,10 @@
   },
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\classes\\FutureProductController.cls": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\classes\\FutureProductController.cls",
-    "size": 2844,
-    "modifiedTime": 1642017761129,
-    "changeTime": 1642017761129,
-    "contentHash": "9e3da4cea5c439c32d32394f6e3a87bcfba5f6a4",
+    "size": 2899,
+    "modifiedTime": 1642204315006,
+    "changeTime": 1642204315006,
+    "contentHash": "523554cdfd7115319f5df4efb27d7f4abfdb6c4f",
     "state": "u",
     "package": "FutureCar",
     "metadataType": "ApexClass",
@@ -765,11 +765,12 @@
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc",
     "isDirectory": true,
-    "modifiedTime": 1642021701229,
-    "changeTime": 1642021701229,
-    "contentHash": "f36c99d36555a8c7044134e07ab8eee82ebd3d2f",
+    "modifiedTime": 1642178052886,
+    "changeTime": 1642178052886,
+    "contentHash": "4579d9e29730edc0230ee83b7ac886630b70e79d",
     "state": "u",
-    "package": "FutureCar"
+    "package": "FutureCar",
+    "deferContentHash": true
   },
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp",
@@ -791,10 +792,10 @@
   },
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.css": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.css",
-    "size": 949,
-    "modifiedTime": 1642118778378,
-    "changeTime": 1642118778378,
-    "contentHash": "1772dd0f2bc372bb7c93b375a1adfe6e7f161cc3",
+    "size": 1089,
+    "modifiedTime": 1642187068642,
+    "changeTime": 1642187068642,
+    "contentHash": "c840f6d053faf516632c8718d5277d2b8c6a59c0",
     "state": "u",
     "package": "FutureCar",
     "metadataType": "LightningComponentBundle",
@@ -802,10 +803,10 @@
   },
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.html": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.html",
-    "size": 690,
-    "modifiedTime": 1642093391172,
-    "changeTime": 1642093391172,
-    "contentHash": "895268615f7a8537344f496899b2776090a6dfd9",
+    "size": 776,
+    "modifiedTime": 1642186553859,
+    "changeTime": 1642186553859,
+    "contentHash": "15c147d700f0979fc8e47b0ae62e4a0c311e8c26",
     "state": "u",
     "package": "FutureCar",
     "metadataType": "LightningComponentBundle",
@@ -814,9 +815,9 @@
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.js": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.js",
     "size": 1792,
-    "modifiedTime": 1642087574540,
-    "changeTime": 1642087574540,
-    "contentHash": "e9a60d467be99016c4c6f593c5cd207e61c4f5ec",
+    "modifiedTime": 1642219142078,
+    "changeTime": 1642219142078,
+    "contentHash": "9e1f679efda65278312cdd88cab3a6b6c21f3e4d",
     "state": "u",
     "package": "FutureCar",
     "metadataType": "LightningComponentBundle",
@@ -975,5 +976,57 @@
     "state": "u",
     "package": "FutureCar",
     "metadataType": "AuraDefinitionBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductProposal": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductProposal",
+    "isDirectory": true,
+    "modifiedTime": 1642179235666,
+    "changeTime": 1642179235666,
+    "contentHash": "9e97ac4b70d55451b6093aa80ea7b89cdd1dd05c",
+    "state": "u",
+    "package": "FutureCar"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductProposal\\futureProductProposal.css": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductProposal\\futureProductProposal.css",
+    "size": 1674,
+    "modifiedTime": 1642185574608,
+    "changeTime": 1642185574608,
+    "contentHash": "13e492b7ee3a4f7cbf3b07c07ae000d68081b1ed",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "LightningComponentBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductProposal\\futureProductProposal.html": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductProposal\\futureProductProposal.html",
+    "size": 1102,
+    "modifiedTime": 1642185881953,
+    "changeTime": 1642185881953,
+    "contentHash": "9e6c3f4646768986aa701c8ecbaae6e225f85069",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "LightningComponentBundle"
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductProposal\\futureProductProposal.js": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductProposal\\futureProductProposal.js",
+    "size": 2669,
+    "modifiedTime": 1642204198353,
+    "changeTime": 1642204198353,
+    "contentHash": "64d8badecd28044ffd7279e12ed6929131369d97",
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductProposal\\futureProductProposal.js-meta.xml": {
+    "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductProposal\\futureProductProposal.js-meta.xml",
+    "size": 422,
+    "modifiedTime": 1642187121523,
+    "changeTime": 1642187121523,
+    "contentHash": "ad38335cf1ce4ef0810c9b9c88608eda6b53cf7c",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "FutureCar",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
   }
 }

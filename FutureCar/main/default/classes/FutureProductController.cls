@@ -25,7 +25,7 @@ public with sharing class FutureProductController {
     public static void saveFutureCustomProduct(Product2 newProduct){
         try {
             newProduct.Name = 'FutureCustom' + newProduct.Name;
-            Upsert newProduct;
+            Insert newProduct;
         } catch (Exception e) {
             throw new AuraHandledException(e.getMessage());
         }
@@ -45,6 +45,7 @@ public with sharing class FutureProductController {
     public static void checkFutureKeyword(List<Product2> newProducts) {
         for(Integer i = 0; i < newProducts.size();i++) {
 
+            System.debug('Godd'+ newProducts[i].Name);
             //If as company future product, product code and displayUrl must have value
             if((!newProducts[i].Name.contains('FutureCustom'))){
                 if((newProducts[i].ProductCode == null) && (newProducts[i].Name.contains('Future'))){
