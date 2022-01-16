@@ -132,13 +132,14 @@
   },
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.cmp": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.cmp",
-    "size": 146,
-    "modifiedTime": 1642120151315,
-    "changeTime": 1642120151315,
-    "contentHash": "32b046608ddd4ef30d51bd205a4d7c196c7d3ef9",
+    "size": 380,
+    "modifiedTime": 1642366621685,
+    "changeTime": 1642366621685,
+    "contentHash": "f53f61ee64dc65df7d68f885fc686ace48c6d985",
     "state": "u",
     "package": "FutureCar",
-    "metadataType": "AuraDefinitionBundle"
+    "metadataType": "AuraDefinitionBundle",
+    "deferContentHash": true
   },
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.cmp-meta.xml": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.cmp-meta.xml",
@@ -163,13 +164,14 @@
   },
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.design": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.design",
-    "size": 40,
-    "modifiedTime": 1642103254255,
-    "changeTime": 1642103254255,
-    "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+    "size": 229,
+    "modifiedTime": 1642365315898,
+    "changeTime": 1642365315898,
+    "contentHash": "bf5bcf32dbacaf52f1910e4c2e4226f05b8bb8d9",
     "state": "u",
     "package": "FutureCar",
-    "metadataType": "AuraDefinitionBundle"
+    "metadataType": "AuraDefinitionBundle",
+    "deferContentHash": true
   },
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.svg": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\aura\\FutureCarAuraApp\\FutureCarAuraApp.svg",

@@ -1,3 +1,5 @@
-<aura:component implements="flexipage:availableForAllPageTypes" access="global">
+<aura:component implements="flexipage:availableForAllPageTypes,home:availableForDesktop,forceCommunity:availableForAllPageTypes" access="global">
+    <aura:attribute name="greeting" type="String" default="Hello" access="global" />
+    <aura:attribute name="subject" type="String" default="World" access="global" />
     <c:futureProductApp></c:futureProductApp>
 </aura:component>	
