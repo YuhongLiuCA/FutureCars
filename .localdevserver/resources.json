@@ -2018,5 +2018,158 @@
         "component://c/futureProductProposal@zh-CN": {
             "dev": "d358221609"
         }
+    },
+    "7df0761b49": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "1c3c9186a7"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "0e79fe5558"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "8ffd48c6f0"
+        },
+        "component://c/futureProductProposal@zh-CN": {
+            "dev": "c7871b75e1"
+        }
+    },
+    "2e29954d48": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "944e0d91f0"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "f1f1a82f7a"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "8ffd48c6f0"
+        },
+        "component://c/futureProductProposal@zh-CN": {
+            "dev": "c7871b75e1"
+        }
+    },
+    "6043328f13": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "5d30c3e498"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "8ffd48c6f0"
+        },
+        "component://c/futureProductProposal@zh-CN": {
+            "dev": "c7871b75e1"
+        }
+    },
+    "64d3ecdb03": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "cfed60720d"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "8ffd48c6f0"
+        },
+        "component://c/futureProductProposal@zh-CN": {
+            "dev": "c7871b75e1"
+        }
+    },
+    "73a10f098e": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "5ad87eb2a2"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "8ffd48c6f0"
+        },
+        "component://c/futureProductProposal@zh-CN": {
+            "dev": "c7871b75e1"
+        }
+    },
+    "b1384f294b": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "1c3c9186a7"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "857c5594dd"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "8ffd48c6f0"
+        },
+        "component://c/futureProductProposal@zh-CN": {
+            "dev": "c7871b75e1"
+        }
+    },
+    "e3452c8c14": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "1c3c9186a7"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "672cec8bd6"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "8ffd48c6f0"
+        },
+        "component://c/futureProductProposal@zh-CN": {
+            "dev": "c7871b75e1"
+        }
+    },
+    "eeb896f4a4": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "441b918bea"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "802d7f0cce"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "8ffd48c6f0"
+        },
+        "component://c/futureProductProposal@zh-CN": {
+            "dev": "c7871b75e1"
+        }
+    },
+    "3b3eb05ad3": {
+        "component://@webruntime/app@zh-CN": {
+            "dev": "87b80922db"
+        },
+        "component://localdevserver/preview@zh-CN": {
+            "dev": "d8da1a15eb"
+        },
+        "component://c/futureProductApp@zh-CN": {
+            "dev": "6a5596ac61"
+        },
+        "component://c/futureProductItem@zh-CN": {
+            "dev": "8ffd48c6f0"
+        },
+        "component://c/futureProductProposal@zh-CN": {
+            "dev": "c7871b75e1"
+        }
     }
 }

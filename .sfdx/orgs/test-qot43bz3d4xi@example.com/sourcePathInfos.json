@@ -533,13 +533,14 @@
   },
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.js": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.js",
-    "size": 1793,
-    "modifiedTime": 1642465654865,
-    "changeTime": 1642467990007,
-    "contentHash": "6ec9aa5a16e2a5804c5f4e3555ba0dd16090b0da",
+    "size": 3979,
+    "modifiedTime": 1642474192145,
+    "changeTime": 1642474192145,
+    "contentHash": "0f6e112c634b952e430d7be9f61352c911fa5f6b",
     "state": "u",
     "package": "FutureCar",
-    "metadataType": "LightningComponentBundle"
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
   },
   "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.js-meta.xml": {
     "sourcePath": "D:\\Revature\\training\\Week8\\project2-master\\FutureCar\\main\\default\\lwc\\futureProductApp\\futureProductApp.js-meta.xml",
