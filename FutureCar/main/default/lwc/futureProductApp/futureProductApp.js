@@ -5,14 +5,19 @@ import saveFutureProduct from "@salesforce/apex/FutureProductController.saveFutu
 
 export default class FutureProductApp extends LightningElement {
 
+    //Total future cars list
     @api
     futureCars;
 
+    //Display cars, current UI display 2 cars in one page
     @track
     displayCars = [];
 
+    //Index for thr first display item
     @track
     displayIndex = 0;
+
+    //Constructor, save 6 cars if databse no furture cars record
     constructor(){
         super();
         let newProducts =[{Name:'FutureElectricCar2', 
